@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/al_ext" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/al_ext/statedistribution/cuttlebone" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/allolib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/allolib/external/Gamma" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/allolib/external/cpptoml" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/allolib/external/cpptoml/deps/meta-cmake" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/allolib/external/glfw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/allolib/external/imgui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/allolib/external/json" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/allolib/external/rtaudio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/allolib/external/rtmidi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/allolib/external/serial" vcs="Git" />
+  </component>
+</project>
